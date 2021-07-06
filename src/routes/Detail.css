@@ -1,0 +1,22 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 100px;
+  display: flex;
+}
+
+img {
+  margin-right: 60px;
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+    0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.movie__upperdata {
+  display: flex;
+  align-items: center;
+}
+
+.movie__title {
+  font-size: 32px;
+  margin-right: 20px;
+}
